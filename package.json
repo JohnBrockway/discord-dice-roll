@@ -1,0 +1,12 @@
+{
+  "name": "dice-roll",
+  "version": "1.0.0",
+  "description": "Rolls one or more dice of a specified number of sides",
+  "main": "dice-roll.js",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "dotenv": "^6.0.0"
+  },
+  "author": "John Brockway",
+  "license": "ISC"
+}
